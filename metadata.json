@@ -1,0 +1,6 @@
+{
+  "name": "HydroPulse",
+  "description": "Application de suivi d'hydratation avec cercle de progression pour un objectif de 2L, ajout rapide et thème sombre turquoise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HydroPulse</string>
+    <string name="daily_goal_title">Objectif du jour</string>
+    <string name="goal_value_format">2,0 L</string>
+    <string name="add_250ml">+250 ml</string>
+    <string name="add_100ml">+100 ml</string>
+    <string name="add_500ml">+500 ml</string>
+    <string name="reset_action">Réinitialiser</string>
+    <string name="reset_dialog_title">Réinitialiser le suivi ?</string>
+    <string name="reset_dialog_desc">Êtes-vous sûr de vouloir remettre votre compteur d\'eau à zéro pour aujourd\'hui ?</string>
+    <string name="cancel_action">Annuler</string>
+    <string name="confirm_reset_action">Confirmer</string>
+    <string name="goal_achieved">Bravo ! Objectif de 2L atteint ! 🎉</string>
+    <string name="remaining_water">Restant : %1$d ml</string>
+    <string name="glasses_count">%1$d / 8 verres (250 ml)</string>
+    <string name="today_history">Historique du jour</string>
+    <string name="no_intakes_yet">Appuyez sur +250 ml pour commencer votre hydratation !</string>
+</resources>
